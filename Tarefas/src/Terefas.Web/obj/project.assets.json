@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/kali/.nuget/packages/": {}
+    "/home/decom/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kali/Área de Trabalho/Patrick/BootCampDiamantina/Tarefas/src/Terefas.Web/Terefas.Web.csproj",
+      "projectUniqueName": "/home/decom/Área de Trabalho/Patrick01/BootCampDiamantina/Tarefas/src/Terefas.Web/Terefas.Web.csproj",
       "projectName": "Terefas.Web",
-      "projectPath": "/home/kali/Área de Trabalho/Patrick/BootCampDiamantina/Tarefas/src/Terefas.Web/Terefas.Web.csproj",
-      "packagesPath": "/home/kali/.nuget/packages/",
-      "outputPath": "/home/kali/Área de Trabalho/Patrick/BootCampDiamantina/Tarefas/src/Terefas.Web/obj/",
+      "projectPath": "/home/decom/Área de Trabalho/Patrick01/BootCampDiamantina/Tarefas/src/Terefas.Web/Terefas.Web.csproj",
+      "packagesPath": "/home/decom/.nuget/packages/",
+      "outputPath": "/home/decom/Área de Trabalho/Patrick01/BootCampDiamantina/Tarefas/src/Terefas.Web/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/kali/.nuget/NuGet/NuGet.Config"
+        "/home/decom/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/decom/.dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
       }
     }
   }
