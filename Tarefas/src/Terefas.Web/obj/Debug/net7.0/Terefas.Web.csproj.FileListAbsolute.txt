@@ -1,11 +1,3 @@
-/home/kali/Área de Trabalho/Patrick/BootCampDiamantina/Tarefas/src/Terefas.Web/obj/Debug/net7.0/Terefas.Web.csproj.AssemblyReference.cache
-/home/kali/Área de Trabalho/Patrick/BootCampDiamantina/Tarefas/src/Terefas.Web/obj/Debug/net7.0/Terefas.Web.GeneratedMSBuildEditorConfig.editorconfig
-/home/kali/Área de Trabalho/Patrick/BootCampDiamantina/Tarefas/src/Terefas.Web/obj/Debug/net7.0/Terefas.Web.AssemblyInfoInputs.cache
-/home/kali/Área de Trabalho/Patrick/BootCampDiamantina/Tarefas/src/Terefas.Web/obj/Debug/net7.0/Terefas.Web.AssemblyInfo.cs
-/home/kali/Área de Trabalho/Patrick/BootCampDiamantina/Tarefas/src/Terefas.Web/obj/Debug/net7.0/Terefas.Web.csproj.CoreCompileInputs.cache
-/home/kali/Área de Trabalho/Patrick/BootCampDiamantina/Tarefas/src/Terefas.Web/obj/Debug/net7.0/Terefas.Web.MvcApplicationPartsAssemblyInfo.cache
-/home/kali/Área de Trabalho/Patrick/BootCampDiamantina/Tarefas/src/Terefas.Web/obj/Debug/net7.0/Terefas.Web.RazorAssemblyInfo.cache
-/home/kali/Área de Trabalho/Patrick/BootCampDiamantina/Tarefas/src/Terefas.Web/obj/Debug/net7.0/Terefas.Web.RazorAssemblyInfo.cs
 /home/kali/Área de Trabalho/Patrick/BootCampDiamantina/Tarefas/src/Terefas.Web/bin/Debug/net7.0/appsettings.Development.json
 /home/kali/Área de Trabalho/Patrick/BootCampDiamantina/Tarefas/src/Terefas.Web/bin/Debug/net7.0/appsettings.json
 /home/kali/Área de Trabalho/Patrick/BootCampDiamantina/Tarefas/src/Terefas.Web/bin/Debug/net7.0/Terefas.Web.staticwebassets.runtime.json
@@ -14,6 +6,14 @@
 /home/kali/Área de Trabalho/Patrick/BootCampDiamantina/Tarefas/src/Terefas.Web/bin/Debug/net7.0/Terefas.Web.runtimeconfig.json
 /home/kali/Área de Trabalho/Patrick/BootCampDiamantina/Tarefas/src/Terefas.Web/bin/Debug/net7.0/Terefas.Web.dll
 /home/kali/Área de Trabalho/Patrick/BootCampDiamantina/Tarefas/src/Terefas.Web/bin/Debug/net7.0/Terefas.Web.pdb
+/home/kali/Área de Trabalho/Patrick/BootCampDiamantina/Tarefas/src/Terefas.Web/obj/Debug/net7.0/Terefas.Web.csproj.AssemblyReference.cache
+/home/kali/Área de Trabalho/Patrick/BootCampDiamantina/Tarefas/src/Terefas.Web/obj/Debug/net7.0/Terefas.Web.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/Área de Trabalho/Patrick/BootCampDiamantina/Tarefas/src/Terefas.Web/obj/Debug/net7.0/Terefas.Web.AssemblyInfoInputs.cache
+/home/kali/Área de Trabalho/Patrick/BootCampDiamantina/Tarefas/src/Terefas.Web/obj/Debug/net7.0/Terefas.Web.AssemblyInfo.cs
+/home/kali/Área de Trabalho/Patrick/BootCampDiamantina/Tarefas/src/Terefas.Web/obj/Debug/net7.0/Terefas.Web.csproj.CoreCompileInputs.cache
+/home/kali/Área de Trabalho/Patrick/BootCampDiamantina/Tarefas/src/Terefas.Web/obj/Debug/net7.0/Terefas.Web.MvcApplicationPartsAssemblyInfo.cache
+/home/kali/Área de Trabalho/Patrick/BootCampDiamantina/Tarefas/src/Terefas.Web/obj/Debug/net7.0/Terefas.Web.RazorAssemblyInfo.cache
+/home/kali/Área de Trabalho/Patrick/BootCampDiamantina/Tarefas/src/Terefas.Web/obj/Debug/net7.0/Terefas.Web.RazorAssemblyInfo.cs
 /home/kali/Área de Trabalho/Patrick/BootCampDiamantina/Tarefas/src/Terefas.Web/obj/Debug/net7.0/staticwebassets/msbuild.Terefas.Web.Microsoft.AspNetCore.StaticWebAssets.props
 /home/kali/Área de Trabalho/Patrick/BootCampDiamantina/Tarefas/src/Terefas.Web/obj/Debug/net7.0/staticwebassets/msbuild.build.Terefas.Web.props
 /home/kali/Área de Trabalho/Patrick/BootCampDiamantina/Tarefas/src/Terefas.Web/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Terefas.Web.props

@@ -5,6 +5,7 @@ namespace Tarefas.Web.Models;
 
 public class TarefaViewModel
 {
+
     [DisplayName("Título")]
     public string Titulo {get; set;}
 
