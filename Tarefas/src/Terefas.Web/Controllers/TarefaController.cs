@@ -18,10 +18,7 @@ public class TarefasController : Controller
         };
         return View(listaDeTarefas);
     }
-       public IActionResult Detalis(int id)
-    {
-
-    }
+     //  public IActionResult Detalis(int id)  {    }
 
 
 }
