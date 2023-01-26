@@ -2,7 +2,7 @@
 
 <form asp-action="Create">
     @Html.DisplayNameFor(model => model.Titulo)
-    <input asp-for="Titulo">
+    <input asp-for="Titulo" readonly=true>
     @Html.DisplayNameFor(model => model.Descrisao)
     <input asp-for="Descrisao">
     <input type="submit">

@@ -24,7 +24,7 @@ public class TarefasController : Controller
  
         return View(listaDeTarefas);
     }
-       public IActionResult Detalis(int id) 
+       public IActionResult Details(int id) 
         {
           var tarefa  = listaDeTarefas.Find(tarefa=>tarefa.id==id);
           return View(tarefa);//Contruir View De detalhe
